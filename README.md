@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Hadith90](https://github.com/husnainshah943/Hadith90)
 
-- 🌱 I’m currently learning *Laravel*
+- 🌱 I’m currently learning *Web3*
 
 - 👯 I’m looking to collaborate on *Web Development*
 
