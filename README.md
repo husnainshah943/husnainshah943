@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/itzhusnainamin" target="blank"><img src="https://img.shields.io/twitter/follow/itzhusnainamin?logo=twitter&style=for-the-badge" alt="itzhusnainamin" /></a> </p>
 
-- 🔭 I’m currently working on [ListPlix](https://github.com/husnainshah943/ListPlix)
+- 🔭 I’m currently working on [ListPlix](https://github.com/husnainshah943/Hadith90)
 
 - 🌱 I’m currently learning *Laravel*
 
